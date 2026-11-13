@@ -1,0 +1,14 @@
+[gd_scene format=3 uid="uid://dysbd1jfwt8w7"]
+
+[ext_resource type="Script" uid="uid://bebmdf3jxaix0" path="res://Scenes/canvas_layer.gd" id="1_5oaki"]
+
+[node name="CanvasLayer" type="CanvasLayer" unique_id=62406625]
+script = ExtResource("1_5oaki")
+
+[node name="Label" type="Label" parent="." unique_id=285795029]
+offset_right = 40.0
+offset_bottom = 23.0
+text = "Time Left:"
+
+[node name="Timer" type="Timer" parent="." unique_id=436164730]
+autostart = true
