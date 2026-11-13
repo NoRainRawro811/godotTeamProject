@@ -1,19 +1,11 @@
 78098b89c88a74ebe8c20117b8754620
-<<<<<<< HEAD
-::res://::1794495852
+::res://::1794580153
 icon.svg::CompressedTexture2D::8260145067331071715::1794493565::1794495522::1::::<><><>0<>0<>3a8e48b6c1296fb606dbd5a2da34c655<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-=======
-::res://::1794576135
-icon.svg::CompressedTexture2D::8260145067331071715::1794492867::1794492872::1::::<><><>0<>0<>3a8e48b6c1296fb606dbd5a2da34c655<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-::res://Assets/::1794493024
-::res://Assets/Fonts/::1794493024
-::res://Assets/Music/::1794492985
-::res://Assets/Sounds/::1794492981
-::res://Assets/Sprites/::1794576540
-Placeholder.png::CompressedTexture2D::5730324482100998229::1794576540::1794576540::1::::<><><>0<>0<>021a0bf73f382329d4e8710116aa5678<>res://.godot/imported/Placeholder.png-66eee474033f222eb37e00dcccd6957a.ctex::
-::res://Scenes/::1794576322
-main.tscn::PackedScene::1918106096687962187::1794576135::0::1::::<><><>0<>0<><>::
-player.tscn::PackedScene::1231677971085371993::1794576322::0::1::::<><><>0<>0<><>::uid://d1v4l4rqiimt8::::res://Scripts/character_body_2d.gd
-::res://Scripts/::1794576322
-character_body_2d.gd::GDScript::9029305905203397463::1794576322::0::1::::<>CharacterBody2D<><>0<>0<><>::
->>>>>>> 94950a8a183847e1760e3daf7a6e0e28d0c510a1
+::res://Assets/::1794580086
+::res://Assets/Sprites/::1794580086
+Placeholder.png::CompressedTexture2D::5730324482100998229::1794580086::1794580086::1::::<><><>0<>0<>021a0bf73f382329d4e8710116aa5678<>res://.godot/imported/Placeholder.png-66eee474033f222eb37e00dcccd6957a.ctex::
+::res://Scenes/::1794580086
+main.tscn::PackedScene::1918106096687962187::1794580086::0::1::::<><><>0<>0<><>::uid://rsvs6agxebph::::res://Scenes/player.tscn
+player.tscn::PackedScene::1231677971085371993::1794580086::0::1::::<><><>0<>0<><>::uid://d1v4l4rqiimt8::::res://Scripts/character_body_2d.gd<>uid://cnv2uvx5n1nwv::::res://Assets/Sprites/Placeholder.png
+::res://Scripts/::1794580086
+character_body_2d.gd::GDScript::9029305905203397463::1794580086::0::1::::<>CharacterBody2D<><>0<>0<><>::
