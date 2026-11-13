@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://6aubte3o5u0y"
-path="res://.godot/imported/food_048__shell.png-5cde6dac8d8bf99de55ebcc601f0d059.ctex"
+uid="uid://cflnpk8ihqx4u"
+path="res://.godot/imported/pickupItems.jpg-4351a5e0b8e69c5fdeca4edfb2f110bd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ClawAndBlade/Icons/Food/food_048__shell.png"
-dest_files=["res://.godot/imported/food_048__shell.png-5cde6dac8d8bf99de55ebcc601f0d059.ctex"]
+source_file="res://Assets/Sprites/map_Obsticles/pickupItems.jpg"
+dest_files=["res://.godot/imported/pickupItems.jpg-4351a5e0b8e69c5fdeca4edfb2f110bd.ctex"]
 
 [params]
 
