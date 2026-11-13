@@ -522,9 +522,13 @@ ground_grass_dirt_medium.png::CompressedTexture2D::4033575196119010776::17945816
 ground_sand_dark.png::CompressedTexture2D::4577826267880916771::1794581621::1794581651::1::::<><><>0<>0<>13c590161a92abaf9a7411e9f3fc4124<>res://.godot/imported/ground_sand_dark.png-51a23f225dad7e032c7310cda10d23f4.ctex::
 ground_sand_light.png::CompressedTexture2D::5988943917284475722::1794581621::1794581651::1::::<><><>0<>0<>b05e145e2b1793adbb48de1586c787ba<>res://.godot/imported/ground_sand_light.png-027d5a379308a3f42bd86910834ff9b7.ctex::
 ground_snow.png::CompressedTexture2D::3259658430811460568::1794581621::1794581651::1::::<><><>0<>0<>f1ade2f6fffad6b61f94ba2c6c463d51<>res://.godot/imported/ground_snow.png-b2f8717d2522cd85e49c6b0a715d4758.ctex::
-::res://Assets/sound_Music/::1794583145
+::res://Assets/sound_Music/::1794584107
+Arrow Hit.wav::AudioStreamWAV::2230777023647690902::1794584107::1794584117::1::::<><><>0<>0<>2c9452003d6b76b115f26a8c4422a951<>res://.godot/imported/Arrow Hit.wav-d15da0f63567d34ea2e67a06b36ff939.sample::
+Attack.wav::AudioStreamWAV::9072243158412358486::1794583328::1794584117::1::::<><><>0<>0<>c37fa2a79669ea94d141bedb38c3fca1<>res://.godot/imported/Attack.wav-5da67a359b8ddb06de0f549fd86667c7.sample::
 Bandit - Loop.wav::AudioStreamWAV::3184488217531808305::1794583145::1794583216::1::::<><><>0<>0<>d5085e75dd6c1a54385c6b82c221501b<>res://.godot/imported/Bandit - Loop.wav-d17ca96aefb28df62f7c6fed72441784.sample::
+Bow Shoot.wav::AudioStreamWAV::1429812984419179017::1794584107::1794584117::1::::<><><>0<>0<>e0f2f77c2687d474df9568afe54c73c5<>res://.godot/imported/Bow Shoot.wav-486c00f885533ff6e8b90cf4809c64e9.sample::
 Cave Ambience 1 - Loop.wav::AudioStreamWAV::6623965194319736639::1794583047::1794583216::1::::<><><>0<>0<>a29b7d3e5f29fb6dc35912aa90e67044<>res://.godot/imported/Cave Ambience 1 - Loop.wav-8f50f038485ffa77b75569a60d713964.sample::
+Fail.wav::AudioStreamWAV::8490141518071748097::1794583313::1794584117::1::::<><><>0<>0<>a67448e6643001c3d1f4704fb31bcbe7<>res://.godot/imported/Fail.wav-11ff4b660755e3a05bc214e4c420296b.sample::
 ::res://Assets/Sprites/::1794582961
 Placeholder.png::CompressedTexture2D::5730324482100998229::1794580086::1794580086::1::::<><><>0<>0<>021a0bf73f382329d4e8710116aa5678<>res://.godot/imported/Placeholder.png-66eee474033f222eb37e00dcccd6957a.ctex::
 ::res://Assets/Sprites/map_Obsticles/::1794582961
