@@ -130,13 +130,13 @@ Add an entry **at the end of every lab day**, then push. Two or three sentences 
 
 ### Day 1
 
-**What did we get done?**
+**What did we get done?** Added player movement, found some online assets, and added a 3 minute countdown timer 
 
 
-**What are we doing next time?**
+**What are we doing next time?** I plan on giving the timer more use, like adding a kill function, although, I also need to code death... and a way to stop the timer... and a way to reset the timer that isn't dying. 
 
 
-**Is anything stuck or broken?**
+**Is anything stuck or broken?** Not... really. I mean, there's the whole annoying commit problems, but that's whatever, not really game related, just annoying side effects of working with two people at once.
 
 
 ### Day 2
