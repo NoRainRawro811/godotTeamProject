@@ -1,5 +1,5 @@
 78098b89c88a74ebe8c20117b8754620
-::res://::1794838638
+::res://::1795013900
 icon.svg::CompressedTexture2D::8260145067331071715::1794492867::1794492872::1::::<><><>0<>0<>3a8e48b6c1296fb606dbd5a2da34c655<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 ::res://Assets/::1794584219
 ::res://Assets/ClawAndBlade/::1794581918
@@ -536,10 +536,10 @@ Fail.wav::AudioStreamWAV::8490141518071748097::1794584219::1794584219::1::::<><>
 Placeholder.png::CompressedTexture2D::5730324482100998229::1794576540::1794576540::1::::<><><>0<>0<>021a0bf73f382329d4e8710116aa5678<>res://.godot/imported/Placeholder.png-66eee474033f222eb37e00dcccd6957a.ctex::
 ::res://Assets/Sprites/map_Obsticles/::1794582428
 pickupItems.jpg::CompressedTexture2D::5147310425271100410::1794581918::1794582428::1::::<><><>0<>0<>ae70ef7a53bfcbbb760464f9eae4b407<>res://.godot/imported/pickupItems.jpg-4351a5e0b8e69c5fdeca4edfb2f110bd.ctex::
-::res://Scenes/::1794584187
+::res://Scenes/::1794838981
 canvas_layer.gd::GDScript::2669974703605141591::1794583492::0::1::::<>CanvasLayer<><>0<>0<><>::
 canvas_layer.tscn::PackedScene::8881020552107343208::1794583439::0::1::::<><><>0<>0<><>::uid://bebmdf3jxaix0::::res://Scenes/canvas_layer.gd
-main.tscn::PackedScene::1918106096687962187::1794584187::0::1::::<><><>0<>0<><>::uid://dpxjnadj4ecw6::::res://icon.svg<>uid://rsvs6agxebph::::res://Scenes/player.tscn<>uid://dysbd1jfwt8w7::::res://Scenes/canvas_layer.tscn<>uid://hjy6anh7dtw6::::res://Assets/ClawAndBlade/Tilemaps/Grounds/ground_all.png
+main.tscn::PackedScene::1918106096687962187::1794838981::0::1::::<><><>0<>0<><>::uid://dpxjnadj4ecw6::::res://icon.svg<>uid://rsvs6agxebph::::res://Scenes/player.tscn<>uid://dysbd1jfwt8w7::::res://Scenes/canvas_layer.tscn<>uid://hjy6anh7dtw6::::res://Assets/ClawAndBlade/Tilemaps/Grounds/ground_all.png
 player.tscn::PackedScene::1231677971085371993::1794583492::0::1::::<><><>0<>0<><>::uid://d1v4l4rqiimt8::::res://Scripts/character_body_2d.gd<>uid://cnv2uvx5n1nwv::::res://Assets/Sprites/Placeholder.png
 ::res://Scripts/::1794581871
 character_body_2d.gd::GDScript::9029305905203397463::1794581871::0::1::::<>CharacterBody2D<><>0<>0<><>::
