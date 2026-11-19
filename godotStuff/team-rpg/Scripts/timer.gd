@@ -13,8 +13,14 @@ func _ready() -> void:
 func onTimerTimeout() -> void:
 	timeElapsed -= 1
 	update_label()
+	deathOnTimeout()
 
 func update_label() -> void:
 	var minutes = timeElapsed / 60
 	var seconds = timeElapsed % 60
 	label.text = "%02d:%02d" % [minutes, seconds]
+
+# Handles Death 
+func deathOnTimeout() -> void:
+	if timeElapsed <= 0:
+		get_tree().reload_current_scene()

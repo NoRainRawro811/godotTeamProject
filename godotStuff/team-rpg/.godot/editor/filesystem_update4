@@ -1,0 +1,5 @@
+res://Scenes/canvas_layer.tscn
+res://Scenes/main.tscn
+res://Scenes/timer.tscn
+res://Scenes/player.tscn
+res://Scripts/timer.gd
